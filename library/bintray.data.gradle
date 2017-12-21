@@ -1,0 +1,23 @@
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'SwipeBackLayout'
+    bintrayUserOrg = 'supertxy'
+    publishedGroupId = 'com.supertxy.swipebacklayout'
+    libraryName = 'SwipeBackLayout'
+    artifact = 'SwipeBackLayout'
+
+    libraryDescription = "SwipeBackLayout"
+
+    siteUrl = 'https://github.com/SuperTxy/SwipeBackLayout'
+    gitUrl = 'https://github.com/SuperTxy/SwipeBackLayout.git'
+
+    libraryVersion = 'v0.0.1'
+
+    developerId = 'supertxy'
+    developerName = 'xiaoyan tan'
+    developerEmail = 'txyswl@gmail.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
