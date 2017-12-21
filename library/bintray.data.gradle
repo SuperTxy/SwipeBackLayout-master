@@ -8,8 +8,8 @@ ext {
 
     libraryDescription = "SwipeBackLayout"
 
-    siteUrl = 'https://github.com/SuperTxy/SwipeBackLayout'
-    gitUrl = 'https://github.com/SuperTxy/SwipeBackLayout.git'
+    siteUrl = 'https://github.com/SuperTxy/SwipeBackLayout-master'
+    gitUrl = 'https://github.com/SuperTxy/SwipeBackLayout-master.git'
 
     libraryVersion = 'v0.0.1'
 
